@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    tools:context=".DetailSurahActivity">
+    tools:context="com.app.uas_quran.DetailSurahActivity">
 
     <RelativeLayout
         android:id="@+id/relativeLayout2"
